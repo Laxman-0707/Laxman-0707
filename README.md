@@ -1,23 +1,60 @@
-<h1 align="center">Hi 👋, I'm JALIGI LAXMAN KUMAR</h1>
-<h3 align="center">Java Full Stack Developer | Cloud Enthusiast Learning by building, improving with every commit</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-0707&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-0707" /> </p>
-
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-- 👨‍💻 All of my projects are available at [https://myportfolio-aj3y.vercel.app/](https://myportfolio-aj3y.vercel.app/)
-
-- 💬 Ask me about **Java,Spring Boot**
-
-- 📫 How to reach me **laxmanjaligi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/laxman-kumar-jaligi-057530317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman-kumar-jaligi-057530317" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jaligi_laxman_kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jaligi_laxman_kumar/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&text=JALIGI%20LAXMAN%20KUMAR&fontSize=55&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+
+<h1 align="center">Hi 👋, I'm JALIGI LAXMAN KUMAR</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Cloud+Enthusiast;Best+Innovator+Award+Winner;Building+Scalable+REST+APIs" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🌐 Portfolio: <a href="https://myportfolio-aj3y.vercel.app/" target="_blank">myportfolio-aj3y.vercel.app</a>
+</p>
+
+---
+
+### 💻 Professional Summary
+- **Education**: B.Tech in ECE from CMR Technical Campus with an **8.24 CGPA**  
+- **Achievement**: Best Innovator Award by Telangana Government (TSIC)  
+- **Internship**: IBM Virtual Internship on Large Language Models  
+- **Technical Focus**: Java, Spring Boot, MySQL, React
+
+---
+
+### 🛠️ Technical Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,maven" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman,vscode,idea" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laxman-0707&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laxman-0707&theme=vue" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/laxman-kumar-jaligi-057530317" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/jaligi_laxman_kumar/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+<a href="mailto:laxmanjaligi@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="35" />
+</a>
+</p>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
