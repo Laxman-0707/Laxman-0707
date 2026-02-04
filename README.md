@@ -20,7 +20,7 @@
 - **Education**: B.Tech in ECE from CMR Technical Campus with an **8.24 CGPA**  
 - **Achievement**: Best Innovator Award by Telangana Government (TSIC)  
 - **Internship**: IBM Virtual Internship on Large Language Models  
-- **Technical Focus**: Java, Spring Boot, MySQL, React, AWS, linux
+- **Technical Focus**: Java, Spring Boot, MySQL, React, AWS, Linux
 
 ---
 
